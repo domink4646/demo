@@ -4,4 +4,4 @@ masik = input("A másik szöveg: ")
 print(egyik + masik)
 print("Timothy")
 
-asdkflaksjdf
+Akkor majom vagy!
